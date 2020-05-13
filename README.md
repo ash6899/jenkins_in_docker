@@ -57,6 +57,11 @@ Now the image is ready with jenkins and docker both installed in it.
 
 ## Task 3
 ### Create a job chain of job1, job2, job3 and  job4 using build pipeline plugin in Jenkins .
+### Note: 
+Before creating jobs install github pipeline, delivery pipeline and build pipeline.
+For Email-Configuration setup:
+Go to Manage Jenkins>Configure Jenkins>Email Notifications(Scroll down)>SMTP sever:smtp.gmail.com(generally we use gmail)>click Advanced>select Use SMTP Authentication>Fill sender's mail and password>enable Use SSL>SMTP port:465 or 25 or 587(test accordingly)
+You can also test it by giving any recipient mail.
 ```
 ### Job1 - Pull  the Github repo automatically when some developers push repo to Github.
 ```
