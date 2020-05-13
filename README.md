@@ -2,7 +2,7 @@
 
 ## Task 1 
 ### Create container image that’s has Jenkins installed  using dockerfile
-Problem in this task - If we installed jenkins then it is not able to launch docker in the same container . 
+**Challeneges in this project** - If we installed jenkins then it is not able to launch docker in the same container . 
 So to solve this first we have to launch **docker in docker** and create an image of this and then launch a new image from this docker in docker image with Dockerfile for installing jenkins .
 ```
 Step 1 - First install docker in a centos:7 container and them commit it to yash6899/dockerindocker image
