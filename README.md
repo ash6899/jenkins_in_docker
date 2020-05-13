@@ -82,7 +82,7 @@ Now the image is ready with jenkins and docker both installed in it.
 ```
 ![](ss/16.jpg)
 
-### Hurrah ! The task is completed , the main challenge in this project is to launch **docker inside the docker** and **jenkins inside the docker**.
+### Hurrah ! The task is completed , the main challenge in this project is to launch **docker inside the docker** and **jenkins inside the same docker**.
 
 **Contributors**
 <a href="https://github.com/yashkhandelwal17/Practice/graphs/contributors">
