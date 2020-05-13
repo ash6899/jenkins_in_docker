@@ -81,12 +81,9 @@ Now the image is ready with jenkins and docker both installed in it.
 > Now the chain of job is created you can add that to your build pipeline and see a structure like this when you push something in your github repo but for this you first need to create a webhook for this -
 ```
 ![](ss/16.jpg)
-```
-```
-The task is completed , the main challenge in this project is to launch **docker inside the docker** and **jenkins inside the docker**.
-```
 
-```
+### Hurrah ! The task is completed , the main challenge in this project is to launch **docker inside the docker** and **jenkins inside the docker**.
+
 **Contributors**
 <a href="https://github.com/yashkhandelwal17/Practice/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=yashkhandelwal17/Practice" />
