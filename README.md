@@ -32,10 +32,10 @@ Step 1 - First install docker in a centos:7 container and them commit it to yash
 ```
 Now the image is ready with jenkins and docker both installed in it.
 ```
-```
+
 ## Task 2
 ### When we launch this image, it should automatically starts Jenkins service in the container.
-```
+
 ![](ss/7.jpg)
 ```
 > In this command we are mounting /var/run/docker.sock:/var/run/docker.sock so that we can use the docker daemon of the redhat inside the container.
@@ -54,9 +54,10 @@ Now the image is ready with jenkins and docker both installed in it.
 ```
 > Now the jenkins is ready now configure the jenkins and install plugins for github and build-pipeline
 ```
-```
+
 ## Task 3
 ### Create a job chain of job1, job2, job3 and  job4 using build pipeline plugin in Jenkins .
+```
 ### Job1 - Pull  the Github repo automatically when some developers push repo to Github.
 ```
 ![](ss/11.jpg)
