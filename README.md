@@ -75,8 +75,8 @@ Now the image is ready with jenkins and docker both installed in it.
 ![](ss/14.jpg)
 ```
 ### Job5 - If container where app is running. fails due to any reson then this job should automatically start the container again.
-![](ss/15.jpg)
 ```
+![](ss/15.jpg)
 ```
 > Now the chain of job is created you can add that to your build pipeline and see a structure like this when you push something in your github repo but for this you first need to create a webhook for this -
 ```
