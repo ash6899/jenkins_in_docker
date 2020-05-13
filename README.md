@@ -87,7 +87,7 @@ The task is completed , the main challenge in this project is to launch **docker
 ```
 
 ```
-**Contributots**
+**Contributors**
 <a href="https://github.com/yashkhandelwal17/Practice/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=yashkhandelwal17/Practice" />
 </a>
